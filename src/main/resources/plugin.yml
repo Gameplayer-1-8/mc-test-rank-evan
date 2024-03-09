@@ -1,0 +1,7 @@
+name: Teams-Raked
+version: '${project.version}'
+main: de.maxi.teamsraked.Teams_Raked
+api-version: '1.19'
+commands:
+  rank:
+    description: 'Set Players rank'
