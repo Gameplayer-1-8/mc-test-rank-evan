@@ -54,7 +54,7 @@ public class Rank {
             case PLAYER:
                 return "4Player";
             default:
-                return "9Error";
+                return "8Error";
         }
     }
 }
